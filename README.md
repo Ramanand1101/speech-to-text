@@ -7,6 +7,10 @@ This repository contains a simple web app that allows users to convert spoken la
 1. Clone the repository: `git clone https://github.com/your-username/speech-to-text.git`
 2. Open the `index.html` file in your web browser.
 
+## Live Demo
+
+Try out the live demo of the app here: [Speech to Text Web App](https://speech-to-text-webapp.netlify.app/)
+
 ## How It Works
 
 - Click on the "Speak!" button to start speaking. Your speech will be transcribed and displayed in the textarea in real-time.
